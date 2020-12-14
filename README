@@ -1,0 +1,8 @@
+Run a sample microfrontend by essentially cd'ing into reach of the react project
+(container master) is the container that holds the shared concerns and "contains"
+the other 2 microfrontend apps (browse and restaurant). 
+
+More details can be followed in the blog post found below. This will be compared to using a library. This approach uses a native
+approach or doesn't use a microservice library.
+
+https://medium.com/better-programming/5-steps-to-turn-a-random-react-application-into-a-micro-frontend-946718c147e7
